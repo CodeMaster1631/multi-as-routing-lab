@@ -47,9 +47,11 @@ routing protocols.
 -   Multiple LAN segments
 -   Multiple point-to-point WAN links
 
-> Add your topology image here:
->
-> `![Topology](screenshots/topology.png)`
+------------------------------------------------------------------------
+
+## Network Topology
+
+![Network Topology](screenshots/topology.png)
 
 ------------------------------------------------------------------------
 
@@ -137,18 +139,6 @@ demonstrating successful BGP route exchange and redistribution into the
 interior routing protocols.
 
 ------------------------------------------------------------------------
-
-## Repository Structure
-
-``` text
-├── configs/
-├── screenshots/
-├── topology/
-├── report/
-│   └── routing-report.pdf
-├── README.md
-└── LICENSE
-```
 
 ------------------------------------------------------------------------
 
